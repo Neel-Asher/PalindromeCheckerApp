@@ -1,7 +1,7 @@
 # PalindromeCheckerApp
 The objective of the PalindromeChecker App is to design and implement a console-based Java application that validates whether a given string is a palindrome under different conditions, while strengthening core programming fundamentals and data structure concepts.
 
-## Use Case 8: Linked List Based Palindrome Checker
+## UC8: Linked List Based Palindrome Checker
 
 + This program checks whether a given string is a palindrome.
 + It uses the LinkedList data structure from the Java Collections Framework.
