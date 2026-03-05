@@ -1,7 +1,7 @@
 # PalindromeCheckerApp
 The objective of the PalindromeChecker App is to design and implement a console-based Java application that validates whether a given string is a palindrome under different conditions, while strengthening core programming fundamentals and data structure concepts.
 
-## Use Case 10: Normalized Palindrome Validation
+## UC10: Normalized Palindrome Validation
 
 + This program checks whether a given string is a palindrome after preprocessing.
 + The input string may contain spaces, punctuation, or mixed case letters.
